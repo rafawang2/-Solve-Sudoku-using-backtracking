@@ -1,1 +1,1 @@
-# -Solve-Sudoku-using-backtracking
+# BacktrackSudoku
